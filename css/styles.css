@@ -1,13 +1,28 @@
 @import url("https://fonts.googleapis.com/css?family=Megrim:400|Quicksand:400");
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Quicksand', sans-serif; }
+  font-family: 'Quicksand', sans-serif;
+ }
 
 body {
   font-family: 'Quicksand', sans-serif;
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 75px;
   margin-bottom: auto;
 
+ }
+
+ .bouncy{
+  animation:bouncy 5s infinite linear;
+  position:relative;
+ }
+ @keyframes bouncy {
+  0%{top:0em}
+  40%{top:0em}
+  43%{top:-0.9em}
+  46%{top:0em}
+  48%{top:-0.4em}
+  50%{top:0em}
+  100%{top:0em;}
  }
