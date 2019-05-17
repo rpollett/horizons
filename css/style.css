@@ -3,8 +3,8 @@
 @import 'slick.css';
 @import 'slick-theme.css';
 @import 'framework.css';
-/* THIS IS A FREE VERSION OF STARTUP 3! */
-/* 
+/* welcome to my lair */
+/*
  Table of contents:
  1. Common styles
  2. Common responsive styles
@@ -25,7 +25,7 @@
 body {
   font-family: Poppins;
   font-weight: 300;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 26px;
   color: #1e0e62;
   -webkit-font-smoothing: antialiased;
