@@ -12,7 +12,7 @@ if (!empty($_POST))
 		// email field "From" - email of sender (e.g. "robot@domain.com")
 		$from_email = "robot@horizons.app";
 		// Email to receive message - PUT YOUR EMAIL HERE
-		$to = "hello@cryptoviews.app";
+		$to = "hello@cryptoviews.dev";
 
 		/* END OF SETTINGS */
 
