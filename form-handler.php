@@ -10,7 +10,7 @@ if (!empty($_POST))
 		// email field "From" - name of sender (e.g. your first & last name)
 		$from_name = "Digital Snow Team";
 		// email field "From" - email of sender (e.g. "robot@domain.com")
-		$from_email = "robot@horizons.app";
+		$from_email = "hello@horizons.app";
 		// Email to receive message - PUT YOUR EMAIL HERE
 		$to = "hello@cryptoviews.dev";
 
